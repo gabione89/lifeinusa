@@ -1,0 +1,49 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title>My First time In Usa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+  <body>
+    <h1>My First time In Usa</h1>
+    <p>
+      Coming to united Stated was the best thing that could ever happened to me. <span class="best">It was the best time of my life when i came for the first time.</span>
+      </p>
+      <p class="memory">
+        I remember my father made us go out and have a good time. this is a list of stuff we did.
+       </p>
+       <table border="5">
+        <thead>
+          <th>My father</th>
+          <th>My mother</th>
+          <th>My other family</th>
+          </thead>
+          <tr>
+            <td>Get 8 kids</td>
+            <td>5 Kids</td>
+            <td>none</td>
+          </tr>
+        </table>
+        <h2> The second phase of my life</h2>
+        <p>I started working as a diswasher, this was the hardest job of my life.
+          here is a pic of it :
+          <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Dishwasher_professional_on_the_job_%28November_2018%29.jpg">
+          <p> this the link of where I was working, <a href="https://hiring.monster.com/resources/job-descriptions/food-service/dishwasher/">Click here</a></p>
+          <h3> Best thing I love about USA</h3>
+            <ul class="ul">
+              <li> You are free to do whatever you want</li>
+              <li>It's a country that you can achieve whatever you want</li>
+              <li> and it allows you to travel wherever you want</li>
+              
+              </ul>
+              <footer>
+                
+                 <ul>
+                  <li>about us</li>
+                  <li>contact us</li>
+                  </ul>
+                  </nav>
+                </footer>
+            
+ </body>
+  </html>
